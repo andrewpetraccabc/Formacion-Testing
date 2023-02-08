@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="gde26de56da33d7af036fb1acae66dad3" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>[DEV] Experiencia de Ejercicios Espirituales</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2023-02-08</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="g23a604fd0045f36dfed79acab0299f24">
+          <title>Día Segundo</title>
+          <item identifier="g6bb57ca5a12a6d9bb8590c69e52146d6" identifierref="g89e1d3296ed23abc7f470e9787cf5616">
+            <title>Día segundo </title>
+          </item>
+        </item>
+        <item identifier="gd450329f0809a35b3069ac69579cd0a0">
+          <title>Día Primero</title>
+          <item identifier="ga56f4f43ca540e4a07638b022fcd645b" identifierref="g8dee27ee1ad95daa1219a0635e0d58ac">
+            <title>Dia Primero</title>
+          </item>
+        </item>
+        <item identifier="gd0849e3bb4b66e5179e2204b51375ea9">
+          <title>Día Tercero</title>
+          <item identifier="g688555d37575a9fcdcc1c5df59099c6c" identifierref="gaa03849a30ec3dab8327048f6ad2df46">
+            <title>Día tercero</title>
+          </item>
+        </item>
+        <item identifier="g416f40f85c3892c7be8569ee92c8df00">
+          <title>Día Cuarto</title>
+          <item identifier="g3044200e52ca64d25287e313f0e6d5f1" identifierref="gb977ab82d62717e9a855129b9fb9bb19">
+            <title>Día cuarto</title>
+          </item>
+        </item>
+        <item identifier="gfe9567a4838d5164a181eb20e730105c">
+          <title>Día Quinto</title>
+          <item identifier="g622d797a257a185456497e171fcbc213" identifierref="gdfa368adb91466ac8f2b6336d85fb4da">
+            <title>Dia Quinto</title>
+          </item>
+        </item>
+        <item identifier="gfeb7d0bc3ff37ae9f609106569a10ba0">
+          <title>Día Sexto</title>
+          <item identifier="ge823b1b0bff45f2e0ea05a214422892c" identifierref="gc82faf28b54c4a9bb8f865a53c7f9ad2">
+            <title>Dia sexto</title>
+          </item>
+        </item>
+        <item identifier="g8821c6ae8e73fd9c1992b04554f62830">
+          <title>Día Septimo</title>
+          <item identifier="gd2b4d97593852740ff2d88ad713a2106" identifierref="g9a9992c299a63792987f319f7a41d2d8">
+            <title>Día Séptimo</title>
+          </item>
+        </item>
+        <item identifier="gd410c3b39c66dee3f8be80dd1e532bc6">
+          <title>Día Octavo</title>
+          <item identifier="g0dc17443056d3eb9747daae130b45b58" identifierref="gdc3af46d4a8e72bbc1c845cc219072fe">
+            <title>Día Octavo</title>
+          </item>
+        </item>
+        <item identifier="g8a153685d5525b8cdcd0ef21ea27b10f">
+          <title>Introducción</title>
+          <item identifier="g9accc42f23b92c71905c8057ae3e2100" identifierref="g59b9c5b468d37c4915a784d212bb02e8">
+            <title>Notas Introductorias</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="gb338c1b53108b0bef17a5d5c0dc0e893" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/late_policy.xml"/>
+      <file href="course_settings/context.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g89e1d3296ed23abc7f470e9787cf5616" type="webcontent" href="wiki_content/dia-segundo.html">
+      <file href="wiki_content/dia-segundo.html"/>
+    </resource>
+    <resource identifier="gaa03849a30ec3dab8327048f6ad2df46" type="webcontent" href="wiki_content/dia-tercero.html">
+      <file href="wiki_content/dia-tercero.html"/>
+    </resource>
+    <resource identifier="g70e9f3e64cab9ec969178dbb36b6a4c4" type="webcontent" href="wiki_content/formato-pagina-semanal.html">
+      <file href="wiki_content/formato-pagina-semanal.html"/>
+    </resource>
+    <resource identifier="g88a135b20ad3ba8f65a31a2bdce052c3" type="webcontent" href="wiki_content/formato-pagina-principal.html">
+      <file href="wiki_content/formato-pagina-principal.html"/>
+    </resource>
+    <resource identifier="gb977ab82d62717e9a855129b9fb9bb19" type="webcontent" href="wiki_content/dia-cuarto.html">
+      <file href="wiki_content/dia-cuarto.html"/>
+    </resource>
+    <resource identifier="gdfa368adb91466ac8f2b6336d85fb4da" type="webcontent" href="wiki_content/dia-quinto.html">
+      <file href="wiki_content/dia-quinto.html"/>
+    </resource>
+    <resource identifier="gc82faf28b54c4a9bb8f865a53c7f9ad2" type="webcontent" href="wiki_content/dia-sexto.html">
+      <file href="wiki_content/dia-sexto.html"/>
+    </resource>
+    <resource identifier="g9a9992c299a63792987f319f7a41d2d8" type="webcontent" href="wiki_content/dia-septimo.html">
+      <file href="wiki_content/dia-septimo.html"/>
+    </resource>
+    <resource identifier="g59b9c5b468d37c4915a784d212bb02e8" type="webcontent" href="wiki_content/notas-introductorias.html">
+      <file href="wiki_content/notas-introductorias.html"/>
+    </resource>
+    <resource identifier="g8dee27ee1ad95daa1219a0635e0d58ac" type="webcontent" href="wiki_content/dia-primero.html">
+      <file href="wiki_content/dia-primero.html"/>
+    </resource>
+    <resource identifier="gdc3af46d4a8e72bbc1c845cc219072fe" type="webcontent" href="wiki_content/dia-octavo.html">
+      <file href="wiki_content/dia-octavo.html"/>
+    </resource>
+    <resource identifier="g35c69a360685f040faedba42fa95f5ee" type="imsdt_xmlv1p1">
+      <file href="g35c69a360685f040faedba42fa95f5ee.xml"/>
+      <dependency identifierref="g79685039554e9bfbc264b2e9fdbbb053"/>
+    </resource>
+    <resource identifier="g79685039554e9bfbc264b2e9fdbbb053" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g79685039554e9bfbc264b2e9fdbbb053.xml">
+      <file href="g79685039554e9bfbc264b2e9fdbbb053.xml"/>
+    </resource>
+    <resource identifier="gda41823a83c3372e9bea46e95139c9e7" type="imsdt_xmlv1p1">
+      <file href="gda41823a83c3372e9bea46e95139c9e7.xml"/>
+      <dependency identifierref="g655dd5a800db74d04745edae62e089a8"/>
+    </resource>
+    <resource identifier="g655dd5a800db74d04745edae62e089a8" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g655dd5a800db74d04745edae62e089a8.xml">
+      <file href="g655dd5a800db74d04745edae62e089a8.xml"/>
+    </resource>
+    <resource identifier="g7267d3ff872fcf545a784b6bb5996fe1" type="imsdt_xmlv1p1">
+      <file href="g7267d3ff872fcf545a784b6bb5996fe1.xml"/>
+      <dependency identifierref="gcd32fe643c82d009266c13eff54f0bf9"/>
+    </resource>
+    <resource identifier="gcd32fe643c82d009266c13eff54f0bf9" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gcd32fe643c82d009266c13eff54f0bf9.xml">
+      <file href="gcd32fe643c82d009266c13eff54f0bf9.xml"/>
+    </resource>
+    <resource identifier="g8276af682b2eedaa8bdf0211e6ea822d" type="imsdt_xmlv1p1">
+      <file href="g8276af682b2eedaa8bdf0211e6ea822d.xml"/>
+      <dependency identifierref="gce8510702e9e186232ad49b8188f606a"/>
+    </resource>
+    <resource identifier="gce8510702e9e186232ad49b8188f606a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gce8510702e9e186232ad49b8188f606a.xml">
+      <file href="gce8510702e9e186232ad49b8188f606a.xml"/>
+    </resource>
+    <resource identifier="gdfbc80f9f4cc58580ee56a0e94553866" type="imsdt_xmlv1p1">
+      <file href="gdfbc80f9f4cc58580ee56a0e94553866.xml"/>
+      <dependency identifierref="g93b462f54025d5b61615ec9349e90b17"/>
+    </resource>
+    <resource identifier="g93b462f54025d5b61615ec9349e90b17" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g93b462f54025d5b61615ec9349e90b17.xml">
+      <file href="g93b462f54025d5b61615ec9349e90b17.xml"/>
+    </resource>
+    <resource type="webcontent" identifier="gd54f978d8fb5e2643d76223ff3b6568f" href="web_resources/  Día 8 Puntos de la Mañana (F)-1.pdf">
+      <file href="web_resources/  Día 8 Puntos de la Mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g3d1bab6fd4c9473b3b85d2f6127aedc5" href="web_resources/  Día 8 Puntos de la Mañana (F)-2.pdf">
+      <file href="web_resources/  Día 8 Puntos de la Mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ge18e96a3e81c41b8061eeb4fac681241" href="web_resources/  Día 8 Puntos de la Mañana (F).pdf">
+      <file href="web_resources/  Día 8 Puntos de la Mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gfcaa178b6175d8f8ac793eeb45628085" href="web_resources/ Día 7 Puntos de la Tarde (F)-1.pdf">
+      <file href="web_resources/ Día 7 Puntos de la Tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gfb5149899c925314e1466bdf7e67113c" href="web_resources/ Día 7 Puntos de la Tarde (F)-2.pdf">
+      <file href="web_resources/ Día 7 Puntos de la Tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g3634b5398f18fb23cab19fcdfaf5551b" href="web_resources/ Día 7 Puntos de la Tarde (F).pdf">
+      <file href="web_resources/ Día 7 Puntos de la Tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g40d85dfa6963e9a28e7c94af44ff7b44" href="web_resources/Día 8 Puntos de la Tarde (F)-1.pdf">
+      <file href="web_resources/Día 8 Puntos de la Tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g3c2c987487c6063fe405b2a65df483a8" href="web_resources/Día 8 Puntos de la Tarde (F)-2.pdf">
+      <file href="web_resources/Día 8 Puntos de la Tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g036409ab938d8771159385de48bf8ce6" href="web_resources/Día 8 Puntos de la Tarde (F).pdf">
+      <file href="web_resources/Día 8 Puntos de la Tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g118b39aa28bb150b7dce821448a587ff" href="web_resources/Dia 2/ Día 2 Puntos de la Mañana (F)-1.pdf">
+      <file href="web_resources/Dia 2/ Día 2 Puntos de la Mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gf287dbb61be4663f0aefc129f4448f9a" href="web_resources/Dia 2/ Día 2 Puntos de la Mañana (F)-2.pdf">
+      <file href="web_resources/Dia 2/ Día 2 Puntos de la Mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g097c1f7f215992ff2f067692c6b1086d" href="web_resources/Dia 2/ Día 2 Puntos de la Mañana (F).pdf">
+      <file href="web_resources/Dia 2/ Día 2 Puntos de la Mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g86ef8f2fedf37ecbc85ec4e457e991e4" href="web_resources/Dia 2/ Día 2 Puntos de la Tarde (F)-1.pdf">
+      <file href="web_resources/Dia 2/ Día 2 Puntos de la Tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g6bb7a9fa97f7445d3130b2e9a7c4bb44" href="web_resources/Dia 2/ Día 2 Puntos de la Tarde (F)-2.pdf">
+      <file href="web_resources/Dia 2/ Día 2 Puntos de la Tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g0f1a3ed7fc37ad68871f33f6c308383b" href="web_resources/Dia 2/ Día 2 Puntos de la Tarde (F).pdf">
+      <file href="web_resources/Dia 2/ Día 2 Puntos de la Tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gddc4885a983b5bd3f6dffcc1e1ee1975" href="web_resources/Dia 2/Orientación General de Ejercicios (día 2)-1.pdf">
+      <file href="web_resources/Dia 2/Orientación General de Ejercicios (día 2)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g6d1f0cd76d723f0d3642fca01ae2af6e" href="web_resources/Dia 2/Orientación General de Ejercicios (día 2)-2.pdf">
+      <file href="web_resources/Dia 2/Orientación General de Ejercicios (día 2)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g0e3a603cc4a883045957af72e9c5963f" href="web_resources/Dia 2/Orientación General de Ejercicios (día 2).pdf">
+      <file href="web_resources/Dia 2/Orientación General de Ejercicios (día 2).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gd40c468f1d21a35ea39d1cfcefd47642" href="web_resources/Dia 2/Orientación para el final del día-1.pdf">
+      <file href="web_resources/Dia 2/Orientación para el final del día-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g964ec371caec53e697cd2ddf80752295" href="web_resources/Dia 2/Orientación para el final del día-2.pdf">
+      <file href="web_resources/Dia 2/Orientación para el final del día-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g1e11c619f6d2b9113e115f0f5aa960f5" href="web_resources/Dia 2/Orientación para el final del día.pdf">
+      <file href="web_resources/Dia 2/Orientación para el final del día.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g23a55241cf9d7cb3cda9ff3dfad6d18f" href="web_resources/Uploaded Media/audio_only.m4a">
+      <file href="web_resources/Uploaded Media/audio_only.m4a"/>
+    </resource>
+    <resource type="webcontent" identifier="g871c4a186a61eebfde1c3a5481756816" href="web_resources/Dia 4/Día 4 Puntos de la mañana (F)-1.pdf">
+      <file href="web_resources/Dia 4/Día 4 Puntos de la mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g5620ced16b3b2503db1bea990970a874" href="web_resources/Dia 4/Día 4 Puntos de la mañana (F)-2.pdf">
+      <file href="web_resources/Dia 4/Día 4 Puntos de la mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4a21c79bbddb552a713e1949e407c6e6" href="web_resources/Dia 4/Día 4 Puntos de la mañana (F).pdf">
+      <file href="web_resources/Dia 4/Día 4 Puntos de la mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g8b6f370994ffdc556d1233ad7d76aa9e" href="web_resources/Dia 4/Día 4 Puntos de la tarde (F)-1.pdf">
+      <file href="web_resources/Dia 4/Día 4 Puntos de la tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g2ce292dd4799cbfd6075dd15781d2388" href="web_resources/Dia 4/Día 4 Puntos de la tarde (F)-2.pdf">
+      <file href="web_resources/Dia 4/Día 4 Puntos de la tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gdd9183fe168cf533d4a66aa7cf2cd68e" href="web_resources/Dia 4/Día 4 Puntos de la tarde (F).pdf">
+      <file href="web_resources/Dia 4/Día 4 Puntos de la tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gda2714cda1c8fa3ba92e928f5789067d" href="web_resources/Día 3/Día 3 Puntos de la mañana (F)-1.pdf">
+      <file href="web_resources/Día 3/Día 3 Puntos de la mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g6405d915974f77d77f63d6953c838307" href="web_resources/Día 3/Día 3 Puntos de la mañana (F)-2.pdf">
+      <file href="web_resources/Día 3/Día 3 Puntos de la mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g29e6881be6f084c35782f32c2ad3cb1c" href="web_resources/Día 3/Día 3 Puntos de la mañana (F).pdf">
+      <file href="web_resources/Día 3/Día 3 Puntos de la mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gfc0165594d2ed11bc7aebd57494999b9" href="web_resources/Día 3/Día 3 Puntos de la Tarde (F)-1.pdf">
+      <file href="web_resources/Día 3/Día 3 Puntos de la Tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g8727687c6f6acd19788717f5ece42b21" href="web_resources/Día 3/Día 3 Puntos de la Tarde (F)-2.pdf">
+      <file href="web_resources/Día 3/Día 3 Puntos de la Tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g0ee22a27bd19d5ee02a2c019edda712d" href="web_resources/Día 3/Día 3 Puntos de la Tarde (F).pdf">
+      <file href="web_resources/Día 3/Día 3 Puntos de la Tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g5219162df4d444b540077e55e99ee7e7" href="web_resources/Dia 7/ Día 7 Puntos de la Tarde (F)-1.pdf">
+      <file href="web_resources/Dia 7/ Día 7 Puntos de la Tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4dd9e71751406bb187f96ef6905f2235" href="web_resources/Dia 7/ Día 7 Puntos de la Tarde (F)-2.pdf">
+      <file href="web_resources/Dia 7/ Día 7 Puntos de la Tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g66a26488be09f5005cd59c8fb0e2505a" href="web_resources/Dia 7/ Día 7 Puntos de la Tarde (F).pdf">
+      <file href="web_resources/Dia 7/ Día 7 Puntos de la Tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gcc7d44e6985dced2690c3033df51c759" href="web_resources/Dia 7/Día 7 Puntos de la Mañana (F)-1.pdf">
+      <file href="web_resources/Dia 7/Día 7 Puntos de la Mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gcf8599b40b0594e5a8ed9370b5c64775" href="web_resources/Dia 7/Día 7 Puntos de la Mañana (F)-2.pdf">
+      <file href="web_resources/Dia 7/Día 7 Puntos de la Mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ga4b6da47087d8767fcb1fe20f313217d" href="web_resources/Dia 7/Día 7 Puntos de la Mañana (F).pdf">
+      <file href="web_resources/Dia 7/Día 7 Puntos de la Mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gaef6c43e49ba4cb40bfde66c752a30e4" href="web_resources/Día 6/Día 6 Puntos de la mañana (F)-1.pdf">
+      <file href="web_resources/Día 6/Día 6 Puntos de la mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g03b1038ef2330988510d1027461336dd" href="web_resources/Día 6/Día 6 Puntos de la mañana (F)-2.pdf">
+      <file href="web_resources/Día 6/Día 6 Puntos de la mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g34f2b3ceba9b02006297d98b40e5f799" href="web_resources/Día 6/Día 6 Puntos de la mañana (F).pdf">
+      <file href="web_resources/Día 6/Día 6 Puntos de la mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gb4d8d2d45fe1eeffa1f4b8bd36e35217" href="web_resources/Día 6/Día 6 Puntos de la Tarde (F)-1.pdf">
+      <file href="web_resources/Día 6/Día 6 Puntos de la Tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g08c4bf40c525290816a46d9fc8034683" href="web_resources/Día 6/Día 6 Puntos de la Tarde (F)-2.pdf">
+      <file href="web_resources/Día 6/Día 6 Puntos de la Tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g5238dc8550f62247de81b074d94f581c" href="web_resources/Día 6/Día 6 Puntos de la Tarde (F).pdf">
+      <file href="web_resources/Día 6/Día 6 Puntos de la Tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g3319c0ede71fe6f5154eba418de21776" href="web_resources/Dia 5/ Día 5 Puntos de la tarde (F)-1.pdf">
+      <file href="web_resources/Dia 5/ Día 5 Puntos de la tarde (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g522e821fc581b6888ce86c5aa9d21736" href="web_resources/Dia 5/ Día 5 Puntos de la tarde (F)-2.pdf">
+      <file href="web_resources/Dia 5/ Día 5 Puntos de la tarde (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gbb726cc559fa5040ba4bc20a5dc2836c" href="web_resources/Dia 5/ Día 5 Puntos de la tarde (F).pdf">
+      <file href="web_resources/Dia 5/ Día 5 Puntos de la tarde (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g5994bf30bd0dcfb3d32ef67534251cc2" href="web_resources/Dia 5/Día 5 Puntos de la mañana (F)-1.pdf">
+      <file href="web_resources/Dia 5/Día 5 Puntos de la mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g5a5f1576de515bc71892c6e65691706f" href="web_resources/Dia 5/Día 5 Puntos de la mañana (F)-2.pdf">
+      <file href="web_resources/Dia 5/Día 5 Puntos de la mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g4c0c8773643ffdd05e7a4cb4b916aa00" href="web_resources/Dia 5/Día 5 Puntos de la mañana (F).pdf">
+      <file href="web_resources/Dia 5/Día 5 Puntos de la mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g269bfed49bce8251ff39310532f36dba" href="web_resources/Dia 1/Día 1 Puntos de la Mañana (F)-1.pdf">
+      <file href="web_resources/Dia 1/Día 1 Puntos de la Mañana (F)-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gf4fa1a027d2d4bcf3685eb5c5599bc62" href="web_resources/Dia 1/Día 1 Puntos de la Mañana (F)-2.pdf">
+      <file href="web_resources/Dia 1/Día 1 Puntos de la Mañana (F)-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gb28b28527dbd3211f35cdad2ec5e72d2" href="web_resources/Dia 1/Día 1 Puntos de la Mañana (F).pdf">
+      <file href="web_resources/Dia 1/Día 1 Puntos de la Mañana (F).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g6ef02e4be53cfdece4b18829291f486a" href="web_resources/Dia 1/Día 1 Puntos de la tarde (F)-3-1.pdf">
+      <file href="web_resources/Dia 1/Día 1 Puntos de la tarde (F)-3-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gdf2c897fdb9c745cfafd12c15acd5ad2" href="web_resources/Dia 1/Día 1 Puntos de la tarde (F)-3-2.pdf">
+      <file href="web_resources/Dia 1/Día 1 Puntos de la tarde (F)-3-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g0a382c29d67d2fb55a72288ad733d0a4" href="web_resources/Dia 1/Día 1 Puntos de la tarde (F)-3.pdf">
+      <file href="web_resources/Dia 1/Día 1 Puntos de la tarde (F)-3.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gd5099edc7aabe926cb62ac5936fb5784" href="web_resources/Nota de introducción/ Introducción a los ejercicios ignacianos (F) -1.pdf">
+      <file href="web_resources/Nota de introducción/ Introducción a los ejercicios ignacianos (F) -1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g2aa3f6951a38de8107b6395518605c87" href="web_resources/Nota de introducción/ Introducción a los ejercicios ignacianos (F) -2.pdf">
+      <file href="web_resources/Nota de introducción/ Introducción a los ejercicios ignacianos (F) -2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g2a58fea6001b7a9dfcfab72980876fa3" href="web_resources/Nota de introducción/ Introducción a los ejercicios ignacianos (F) .pdf">
+      <file href="web_resources/Nota de introducción/ Introducción a los ejercicios ignacianos (F) .pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g9d5572e7de7f4518717b41aec5fd0542" href="web_resources/Nota de introducción/Orientación General de Ejercicios-3-1.pdf">
+      <file href="web_resources/Nota de introducción/Orientación General de Ejercicios-3-1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gf0715936bc6563fbbf7025c583d439c9" href="web_resources/Nota de introducción/Orientación General de Ejercicios-3-2.pdf">
+      <file href="web_resources/Nota de introducción/Orientación General de Ejercicios-3-2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g0c2f6deba94bfe9b35ebfaae5ebf4e07" href="web_resources/Nota de introducción/Orientación General de Ejercicios-3.pdf">
+      <file href="web_resources/Nota de introducción/Orientación General de Ejercicios-3.pdf"/>
+    </resource>
+    <resource identifier="g4ab6bcf4764485d28d42e9e0603eecc2" type="imsbasiclti_xmlv1p0">
+      <file href="g4ab6bcf4764485d28d42e9e0603eecc2.xml"/>
+    </resource>
+  </resources>
+</manifest>
