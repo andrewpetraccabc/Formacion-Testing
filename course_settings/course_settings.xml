@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course identifier="gb338c1b53108b0bef17a5d5c0dc0e893" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <title>[DEV] Experiencia de Ejercicios Espirituales</title>
+  <course_code>[DEV] Experiencia de Ejercicios Espirituales</course_code>
+  <start_at/>
+  <conclude_at/>
+  <tab_configuration>[{"id":0},{"id":"context_external_tool_g4ab6bcf4764485d28d42e9e0603eecc2"},{"id":14},{"id":2},{"id":15},{"id":10},{"id":"context_external_tool_g1a57b1fa034caab8edc9aa206d23e222","hidden":true},{"id":11,"hidden":true},{"id":"context_external_tool_g5f19e3f68040733346b72998e5c33246","hidden":true},{"id":"context_external_tool_g9f22b7d26e7098959643043da03ffbc5","hidden":true},{"id":6,"hidden":true},{"id":12,"hidden":true},{"id":17,"hidden":true},{"id":"context_external_tool_g663e7606d1253ba6fe182374c61a9763","hidden":true},{"id":18,"hidden":true},{"id":5,"hidden":true},{"id":8,"hidden":true},{"id":3,"hidden":true},{"id":1,"hidden":true},{"id":4,"hidden":true}]</tab_configuration>
+  <is_public>false</is_public>
+  <is_public_to_auth_users>false</is_public_to_auth_users>
+  <public_syllabus>false</public_syllabus>
+  <public_syllabus_to_auth>false</public_syllabus_to_auth>
+  <allow_student_wiki_edits>false</allow_student_wiki_edits>
+  <allow_student_forum_attachments>true</allow_student_forum_attachments>
+  <lock_all_announcements>false</lock_all_announcements>
+  <default_wiki_editing_roles>teachers</default_wiki_editing_roles>
+  <allow_student_organized_groups>true</allow_student_organized_groups>
+  <default_view>wiki</default_view>
+  <filter_speed_grader_by_student_group>false</filter_speed_grader_by_student_group>
+  <license>private</license>
+  <indexed>false</indexed>
+  <hide_final_grade>false</hide_final_grade>
+  <hide_distribution_graphs>false</hide_distribution_graphs>
+  <allow_student_discussion_topics>true</allow_student_discussion_topics>
+  <allow_student_discussion_editing>true</allow_student_discussion_editing>
+  <show_announcements_on_home_page>false</show_announcements_on_home_page>
+  <home_page_announcement_limit>3</home_page_announcement_limit>
+  <usage_rights_required>false</usage_rights_required>
+  <restrict_student_future_view>false</restrict_student_future_view>
+  <restrict_student_past_view>false</restrict_student_past_view>
+  <restrict_enrollments_to_course_dates>true</restrict_enrollments_to_course_dates>
+  <homeroom_course>false</homeroom_course>
+  <grading_standard_enabled>false</grading_standard_enabled>
+  <storage_quota>524288000</storage_quota>
+  <overridden_course_visibility/>
+  <root_account_uuid>ujEihJ36qJAkFQhE4NjyHmg5CNazR5e2MZ9ggWME</root_account_uuid>
+  <default_post_policy>
+    <post_manually>false</post_manually>
+  </default_post_policy>
+</course>
